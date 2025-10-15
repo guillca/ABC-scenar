@@ -1,0 +1,5 @@
+{
+  "name": "ABC Learning Designer AI",
+  "description": "An AI-enhanced application to facilitate pedagogical scripting meetings using the ABC method. Visually design learning scenarios, get AI-powered activity suggestions, and analyze the learning type distribution in real-time.",
+  "requestFramePermissions": []
+}
